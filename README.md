@@ -19,7 +19,6 @@ This is the second phase of the Movie App project, an Android application that a
   - [Repository](#repository)
 - [UI Screens](#ui-screens)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -130,9 +129,6 @@ To run the app locally, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
 ## License
 
