@@ -33,7 +33,7 @@ The Movie App Phase 2 builds upon the features introduced in Phase 1. It incorpo
 - Watch trailers and read reviews
 - Mark movies as favorites
 - Persistence of favorite movies using Room Database
-- ...
+  
 
 ## Architecture
 
